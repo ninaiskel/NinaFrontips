@@ -2,4 +2,4 @@
 
 CSS code snipets es una collección de tips de código CSS.
 
-- [Blend-mode](blen-modes)
+- [Blend-mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/blend-modes)
