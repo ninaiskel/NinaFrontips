@@ -23,6 +23,6 @@ En este caso utilizamos `mix-blend-mode: screen;` que establece el modo de fusi√
 
 ## Links
 
-- [Basics of CSS Blend Modes]([https://css-tricks.com/basics-css-blend-modes/)
+- [Basics of CSS Blend Modes](https://css-tricks.com/basics-css-blend-modes/)
 - [CSS-Tricks: background blend mode](https://css-tricks.com/almanac/properties/b/background-blend-mode/)
 - [CSS-Tricks: Mix-blend-mode](https://css-tricks.com/almanac/properties/m/mix-blend-mode/)
