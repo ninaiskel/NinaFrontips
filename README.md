@@ -3,3 +3,7 @@
 NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
 - [Blend-mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/blend-modes)
+
+- [clip path](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
+
+- [HTML tags sub and sup](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
