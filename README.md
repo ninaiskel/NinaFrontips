@@ -1,6 +1,6 @@
 # NinaFrontips
 
-NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
+Colección de tips de HTML, CSS y JavaScript.
 
 - [Blend-mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/blend-modes)
 
