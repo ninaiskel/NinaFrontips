@@ -4,7 +4,7 @@ Colección de tips de HTML, CSS y JavaScript.
 
 - [Blend-mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/blend-modes)
 
-- [clip path](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
+- [Clip path](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
 
 - [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
 
