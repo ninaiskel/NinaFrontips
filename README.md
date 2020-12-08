@@ -6,7 +6,7 @@ Colección de tips de HTML, CSS y JavaScript.
 
 - [Clip path](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
 
-- [columns property](https://github.com/Ninos-labs/CSS-snippets/tree/master/columns-property)
+- [Columns property](https://github.com/Ninos-labs/CSS-snippets/tree/master/columns-property)
 
 - [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
 
