@@ -6,7 +6,7 @@ Para modificarlos usamos el atributo font-variation-settings y cada variation de
 
 ![](demo/variable-fonts.gif)
 
-En [este video](https://youtu.be/_tv-JLaSaIY) puedes ver puedes utilizar variables fonts.
+En [este video](https://youtu.be/_tv-JLaSaIY) puedes ver puedes utilizar variable fonts.
 
 Puedes conseguir variedad de tipografias en [google fonts](https://fonts.google.com/), también en [v-fonts.com](v-fonts.com) ofrece una lista cada vez mayor de nuevas fuentes, usa la que mejor se adapte a tus necesidades.
 
