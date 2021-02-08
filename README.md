@@ -16,6 +16,8 @@ NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
 - [Mix blend mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/mix-blend-mode-II)
 
+- [Perspective text](https://github.com/Ninos-labs/CSS-snippets/tree/master/perspective-text)
+
 - [Variable Fonts](https://github.com/Ninos-labs/CSS-snippets/tree/master/variable-fonts)
 
 ## Youtube channel
