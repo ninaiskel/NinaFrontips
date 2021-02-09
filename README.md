@@ -20,6 +20,8 @@ NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
 - [Perspective text](https://github.com/Ninos-labs/CSS-snippets/tree/master/perspective-text)
 
+- [Random Color](https://github.com/Ninos-labs/CSS-snippets/tree/master/random-color)
+
 - [Shape-outside](https://github.com/Ninos-labs/CSS-snippets/tree/master/shape-outside)
 
 - [Variable Fonts](https://github.com/Ninos-labs/CSS-snippets/tree/master/variable-fonts)
