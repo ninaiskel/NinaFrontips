@@ -8,6 +8,8 @@ NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
 - [Columns property](https://github.com/Ninos-labs/CSS-snippets/tree/master/columns-property)
 
+- [Datalist](https://github.com/Ninos-labs/CSS-snippets/tree/master/data-list)
+
 - [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
 
 - [HTML tags sub and sup](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
@@ -17,6 +19,10 @@ NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 - [Mix blend mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/mix-blend-mode-II)
 
 - [Perspective text](https://github.com/Ninos-labs/CSS-snippets/tree/master/perspective-text)
+
+- [Random Color](https://github.com/Ninos-labs/CSS-snippets/tree/master/random-color)
+
+- [Shape-outside](https://github.com/Ninos-labs/CSS-snippets/tree/master/shape-outside)
 
 - [Variable Fonts](https://github.com/Ninos-labs/CSS-snippets/tree/master/variable-fonts)
 
