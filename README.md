@@ -12,6 +12,8 @@ NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
 - [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
 
+- [Gradient text](https://github.com/Ninos-labs/CSS-snippets/tree/master/gradient-text)
+
 - [HTML tags sub and sup](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
 
 - [Multiple drop-shadow](https://github.com/Ninos-labs/CSS-snippets/tree/master/multiple-drop-shadow)
