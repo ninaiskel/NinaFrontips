@@ -2,27 +2,29 @@
 
 NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
 
+- [Z-index](https://github.com/Ninos-labs/CSS-snippets/tree/master/z-index)
+
+- [Random Color](https://github.com/Ninos-labs/CSS-snippets/tree/master/random-color)
+
+- [Gradient text](https://github.com/Ninos-labs/CSS-snippets/tree/master/gradient-text)
+
+- [Datalist](https://github.com/Ninos-labs/CSS-snippets/tree/master/data-list)
+
+- [Perspective text](https://github.com/Ninos-labs/CSS-snippets/tree/master/perspective-text)
+
+- [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
+
+- [Mix blend mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/mix-blend-mode-II)
+
 - [Blend-mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/blend-modes)
+
+- [Multiple drop-shadow](https://github.com/Ninos-labs/CSS-snippets/tree/master/multiple-drop-shadow)
 
 - [clip path](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
 
 - [Columns property](https://github.com/Ninos-labs/CSS-snippets/tree/master/columns-property)
 
-- [Datalist](https://github.com/Ninos-labs/CSS-snippets/tree/master/data-list)
-
-- [Fluid typography](https://github.com/Ninos-labs/CSS-snippets/tree/master/fluid-typography)
-
-- [Gradient text](https://github.com/Ninos-labs/CSS-snippets/tree/master/gradient-text)
-
 - [HTML tags sub and sup](https://github.com/Ninos-labs/CSS-snippets/tree/master/tag-sub-sup-html)
-
-- [Multiple drop-shadow](https://github.com/Ninos-labs/CSS-snippets/tree/master/multiple-drop-shadow)
-
-- [Mix blend mode](https://github.com/Ninos-labs/CSS-snippets/tree/master/mix-blend-mode-II)
-
-- [Perspective text](https://github.com/Ninos-labs/CSS-snippets/tree/master/perspective-text)
-
-- [Random Color](https://github.com/Ninos-labs/CSS-snippets/tree/master/random-color)
 
 - [Shape-outside](https://github.com/Ninos-labs/CSS-snippets/tree/master/shape-outside)
 

@@ -6,7 +6,7 @@ Con el metodo `math.floor` podemos redondear a un número entero.
 
 ![](demo/random-color.gif)
 
-<!-- [youtube demo]() -->
+[youtube demo](https://www.youtube.com/watch?v=WqBeeAEUT4M)
 
 ## Methods
 
