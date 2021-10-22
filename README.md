@@ -1,6 +1,10 @@
 # NinaFrontips
+## Ahora en 
+https://github.com/Ninos-labs/Frontips
 
-NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp.
+
+
+NinaFrontips es una collección de tips de código HTML, CSS o JavaScritp. 
 
 - [:Where() & :is()](https://github.com/Ninos-labs/CSS-snippets/tree/master/where-is-pseudo-classes)
 
